@@ -39,11 +39,3 @@ while player == False:
     player = False
 
 
-"""string_one = "ABC"
-string_one_bool = bool(string_one)
-string_four = 5
-string_four_bool = bool(string_four)
-string_two = True
-string_three = False
-print(string_one + "\n" + str(string_one_bool) + "\n" + str(string_two) + "\n" + str(string_three) + "\n" + str(string_four_bool))
-"""
